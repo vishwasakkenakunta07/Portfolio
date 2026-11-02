@@ -1,0 +1,1 @@
+Add your portrait to this folder and name it profile.jpg. It will appear in the Home section automatically.
